@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rvowuNxPgoThbeyjgfNBKuMTEKKVldB8gELpBuQHi0ncVXygOzuTsz8axvEPvCrjqG8Kha0yuYCXVou8EaFxLg==",
+  "dgSpecHash": "e3DMrBx2FdnSaMeVyuaGMbDO7qSujg97O2S5x7KmHtyzBwLdrYP3wdnicfTnqea5Wgt9OyMOV7SZKyNlr6EcAQ==",
   "success": true,
-  "projectFilePath": "C:\\Temp\\MudBlazor.NET\\MudBlazor.Templates-master\\MudBlazor.Template.AdminDashboard\\AdminDashboard.Wasm\\AdminDashboard.Wasm.csproj",
+  "projectFilePath": "C:\\Works\\SourceCode\\Github-Desktop\\pos.github.io\\src\\MudBlazor.Template.AdminDashboard\\AdminDashboard.Wasm\\AdminDashboard.Wasm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RR210250\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.3\\microsoft.aspnetcore.authorization.5.0.3.nupkg.sha512",
     "C:\\Users\\RR210250\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.3\\microsoft.aspnetcore.components.5.0.3.nupkg.sha512",
